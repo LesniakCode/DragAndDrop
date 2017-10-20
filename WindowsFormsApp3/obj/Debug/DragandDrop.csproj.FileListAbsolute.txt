@@ -1,0 +1,9 @@
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DragandDrop.exe.config
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DragandDrop.exe
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\DragandDrop.pdb
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\DragandDrop.Form1.resources
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\DragandDrop.Properties.Resources.resources
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\DragandDrop.csproj.GenerateResource.Cache
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\DragandDrop.csproj.CoreCompileInputs.cache
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\DragandDrop.exe
+C:\Users\wayneke\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\DragandDrop.pdb
